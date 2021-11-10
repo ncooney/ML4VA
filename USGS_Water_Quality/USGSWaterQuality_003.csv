@@ -1,10 +1,4 @@
-﻿FIPS,datetime,"Temperature, water, degrees Celsius","Specific conductance, water, unfiltered, microsiemens per centimeter","pH, water, unfiltered, field, standard units","Turbidity, water, unfiltered, monochrome near infra-red LED light,","Dissolved oxygen, water, unfiltered, milligrams per liter","Nitrate plus nitrite, water, in situ, milligrams per liter as nitrogen"
-51059,7/16/2021 19:15,26.4,242,7.5,1.4,7.6,
-51059,7/16/2021 19:30,26.4,242,7.5,1.5,7.5,
-51059,7/16/2021 19:45,26.4,242,7.5,1.4,7.4,
-51059,7/16/2021 20:00,26.3,242,7.5,1.5,7.2,
-51059,7/16/2021 20:15,26.3,242,7.5,1.5,7.1,
-51059,7/16/2021 20:30,26.2,242,7.4,1.4,6.9,
+﻿FIPS,datetime,Temperature,Conductance,pH,Turbidity,DissolvedOxygen,NitratePlusNitrate
 51059,7/16/2021 20:45,26.2,242,7.4,1.5,6.9,
 51059,7/16/2021 21:00,26.1,242,7.4,1.4,6.8,
 51059,7/16/2021 21:15,26.1,242,7.4,1.5,6.7,
